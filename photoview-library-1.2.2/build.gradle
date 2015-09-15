@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('photoview-library-1.2.2.jar'))
